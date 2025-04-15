@@ -1,6 +1,6 @@
 # Chat Application
 
-This lightweight chat application, built using Node.js, Express, and Socket.IO, facilitates real-time messaging and integrates with the LAMA 3.2 language model via API to generate dynamic responses based on user input.
+This lightweight chat application, built with Node.js, Express, and Socket.IO, enables real-time messaging and utilizes a locally installed LAMA 3.2 language model via Ollama to generate dynamic responses based on user input.
 
 ## Project Structure
 
